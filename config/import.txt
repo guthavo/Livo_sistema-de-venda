@@ -1,0 +1,6 @@
+mysql-connector-java-5.1.49.jar -------- incluída - driver do banco de dados mySQL (alteramos a versão do driver)
+eclipselink.jar ------------------------ não incluída - Framework EclipseLink, implementação do JPA
+jakarta.persistence_2.2.3.jar ---------- não incluída - JPA
+
+jakarta.servlet.jsp.jstl-2.0.0.jar ----- não incluída - Biblioteca JSTL
+jakarta.servlet.jsp.jstl-api-2.0.0.jar - não incluída - Biblioteca JSTL

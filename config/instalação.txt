@@ -1,0 +1,7 @@
+- Importar os dois projetos (ProjetoFinal_WEB que está dentro de ProjetoFinal_Desktop.zip e o Projeto05.war);
+
+- Adicionar as bibliotecas tanto no projeto Desktop quanto no web;
+	- Desktop: as duas de jpa(eclipselink) e o connector Mysql;
+	- Web: as duas de jpa(eclipselink),  o connector Mysql e as duas de jstl para tomcat 10;
+
+- Na parte web rodar a pagina html: Página-Inicial.html;
